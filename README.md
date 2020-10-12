@@ -44,7 +44,7 @@
 
 #### - 🎮 Into Gaming too 
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://instagram/smthin.xo/)
+#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://instagram.com/smthin._.xo?igshid=9p3rtxczfmc7)
 
 <br />
 
@@ -73,9 +73,9 @@
 ### - Discord 💥
 
 <p align="center">
-
+<a herf="https://discord.gg/dZdXwsH" >
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-
+</a>
 </p>
 
 ### - YouTube ⚡️
