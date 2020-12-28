@@ -7,8 +7,8 @@ If you really want to, feel free to contact me on Discord and ask me for a websi
 
 <br>
 
-<p align="center"><a href="https://discord.gg/cqpMzBjzQu"><img src="https://discord.com/api/guilds/701451295566856242/widget.png?style=banner1" width=420px></a><br>
-  <a href="https://github.com/WaviestBalloon/"><img src="https://github-readme-stats.vercel.app/api?username=WaviestBalloon" width=420px></a>
+<p align="center"><a href="https://discord.gg/cqpMzBjzQu"><img src="https://discord.com/api/guilds/701451295566856242/widget.png?style=banner4" width=420px></a><br>
+  <a href="https://github.com/WaviestBalloon/"><img src="https://github-readme-stats.vercel.app/api?username=MrFluffycloud" width=420px></a>
   <br><img src="https://visitor-badge.glitch.me/badge?page_id=WaviestBalloon"> | <a href="https://buymeacoff.ee/WaviestBalloon"> BuyMeACoffee</a></p>
 
 <p align="center"><img src="./resources/Discord-Logo-Color.png" width=35px><br><strong>WaviestBalloon#1961</strong></p>
