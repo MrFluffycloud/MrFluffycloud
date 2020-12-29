@@ -1,6 +1,6 @@
 ### Hi there, I'm [MrFluffycloud!](https://github.com/MrFluffycloud/) 👋
 
-## Hi, I'm MountainTiger144, a passionate self-taught developer from England.
+## Hi, I'm MrFluffycloud, a passionate self-taught Discord.js Developer.
 - 🔭 I’m currently working on [Chill Bot](https://github.com/MrFluffycloud/Chill-Bot)
 - 👯 I’m looking to collaboration. DM me on [Discord](https://discord.com/invite/cqpMzBjzQu)
 - 💬 Ask me about anything on Discord [In My Server](https://discord.com/invite/cqpMzBjzQu)
