@@ -1,18 +1,33 @@
+### Hi there, I'm [MrFluffycloud!](https://github.com/MrFluffycloud/) 👋
 
-<p align="center"><img src="./resources/facemain.png" width=375px><br></p>
+## Hi, I'm MountainTiger144, a passionate self-taught developer from England.
+- 🔭 I’m currently working on [Chill Bot](https://github.com/MrFluffycloud/Chill-Bot)
+- 👯 I’m looking to collaboration. DM me on [Discord](https://discord.com/invite/cqpMzBjzQu)
+- 💬 Ask me about anything on Discord [In My Server](https://discord.com/invite/cqpMzBjzQu)
 
-<p align="center"><strong>Hi, I'm <b>MrFluffycloud</b>, I do web-design and I love Node.JS<br>
-Since I'm a full-stack developer, I do frontend and backend<br>
-If you really want to, feel free to contact me on Discord and ask me for a website to be designed for you! 💙</strong></p>
+### Connect with me:
 
-<br>
-<td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.MrFluffycloud.vercel.app/api/top-langs/?username=MrFluffycloud&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true" />
-    </td>
-    
-<p align="center"><a href="https://discord.gg/cqpMzBjzQu"><img src="https://discord.com/api/guilds/701451295566856242/widget.png?style=banner4" width=420px></a><br>
-  <a href="https://github.com/MrFluffycloud/"><img src="https://github-readme-stats.vercel.app/api?username=MrFluffycloud" width=420px></a>
-  <br><img src="https://visitor-badge.glitch.me/badge?page_id=MrFluffycloud"> | <a href="https://buymeacoff.ee/MrFluffycloud"> BuyMeACoffee</a></p>
+[<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
 
-<p align="center"><img src="./resources/Discord-Logo-Color.png" width=35px><br><strong>MrFluffycloud#3172</strong></p>
-<!--<p align="center"><img src="./resources/Twitter_Logo_Blue.png" width=45px><br><strong>@WaviestBalloon</strong></p>-->
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br />
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFluffycloud&layout=compact&hide_border=true&theme=radical)
+
+---
+
+<img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrFluffycloud&show_icons=true&hide_border=true&theme=radical" />
+
+[website]: https://discord.com/invite/qDgxZMdvYX
+[twitter]: https://twitter.com/DevMountainT
