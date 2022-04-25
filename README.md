@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaboration. DM me on [Discord](https://discord.com/invite/cqpMzBjzQu)
 - 💬 Ask me about anything on Discord [In My Server](https://discord.com/invite/cqpMzBjzQu)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z542UDV)
+
 ### Connect with me:
 
 [<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
